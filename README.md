@@ -41,5 +41,4 @@ This is implemented on Ubuntu 18.04, ROS Melodic Morenia.
 
 ## Reference
 1. http://wiki.ros.org/ROS/Tutorials
-2. https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 3. http://gazebosim.org/tutorials?tut=ros_overview
