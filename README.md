@@ -23,8 +23,7 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 roslaunch obstacle-avoidance-turtlebot naive_obs_avoid.launch
 ```
 
-## Demo
-![demo.gif](demo/demo.gif)
+
 
 
 ## Details
